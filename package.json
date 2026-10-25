@@ -1,0 +1,12 @@
+{
+  "name": "devalpona-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Procedural SVG artwork for the devalpona GitHub profile README.",
+  "scripts": {
+    "generate:art": "node scripts/generate-art.mjs",
+    "validate:art": "node scripts/generate-art.mjs --validate"
+  },
+  "license": "UNLICENSED"
+}
