@@ -1,83 +1,89 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,45:581c87,100:06b6d4&text=ALPONA%20DEV&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Creative%20Developer%20%7C%20Building%20with%20Curiosity&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Alpona Dev animated banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050505,35:251044,70:6d28d9,100:050505&text=ALPONA%20DEV&fontColor=ffffff&fontSize=58&fontAlignY=48&animation=fadeIn&stroke=bb86fc&strokeWidth=1" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Creative+mind.+Developer's+heart.;Learning%2C+building%2C+and+leveling+up.;Turning+ideas+into+digital+experiences." alt="Animated typing text" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=700&color=C4B5FD&center=true&vCenter=true&repeat=true&width=650&height=55&lines=CREATIVE+MIND.+DEVELOPER'S+HEART.;DESIGNING.+BUILDING.+EVOLVING.;TURNING+IDEAS+INTO+REALITY.;WELCOME+TO+MY+DIGITAL+UNIVERSE." alt="Animated developer introduction" />
 
 <br/>
 
-<a href="https://github.com/devalpona">
-  <img src="https://img.shields.io/badge/GitHub-devalpona-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+<img src="https://img.shields.io/badge/PROFILE-ALPONA%20DEV-09090b?style=for-the-badge&labelColor=09090b&color=7c3aed" />
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20EVOLVING-09090b?style=for-the-badge&labelColor=09090b&color=64748b" />
+
+<br/><br/>
+
+<a href="https://github.com/devalpona?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Always-Learning-c084fc?style=for-the-badge" alt="Always learning" />
-<img src="https://img.shields.io/badge/Status-Building-06b6d4?style=for-the-badge" alt="Building" />
 
 </div>
 
 ---
 
-## ✦ About Me
+<div align="center">
 
-```yaml
-name: Alpona
-alias: Alpona Dev
-focus: Learning, creating, and growing
-mindset: Curiosity > Comfort Zone
-goal: Build meaningful digital experiences
+## `01` — THE DEVELOPER
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=2&section=header" width="65%" />
+
+</div>
+
+```text
+╭──────────────────────────────────────────╮
+│  ALPONA DEV                              │
+│                                          │
+│  Curious mind. Creative soul.             │
+│  Building my skills, one project at      │
+│  a time.                                  │
+│                                          │
+│  CURRENT MODE  →  LEARNING & BUILDING     │
+│  CORE VALUE    →  CONSISTENT GROWTH       │
+│  NEXT LEVEL    →  ALWAYS IN PROGRESS     │
+╰──────────────────────────────────────────╯
 ```
-
-- ✨ Exploring ideas and turning them into projects.
-- 💜 Learning something new with every build.
-- 🚀 Growing one commit at a time.
-- 🌌 Believing that creativity and code belong together.
-
-## ⚡ My GitHub Universe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devalpona&show_icons=true&hide_border=true&bg_color=09090b&title_color=c084fc&icon_color=22d3ee&text_color=e4e4e7&ring_color=c084fc" alt="GitHub statistics" />
+## `02` — LIVE FROM MY GITHUB
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalpona&layout=compact&hide_border=true&bg_color=09090b&title_color=c084fc&text_color=e4e4e7" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=devalpona&show_icons=true&hide_border=true&bg_color=08060d&title_color=c4b5fd&icon_color=22d3ee&text_color=e4e4e7&ring_color=a78bfa&include_all_commits=true" width="95%" alt="GitHub statistics" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=devalpona&theme=transparent&hide_border=true&background=09090b&ring=c084fc&fire=22d3ee&currStreakLabel=c084fc&sideLabels=e4e4e7&dates=9ca3af" alt="GitHub contribution streak" width="80%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalpona&layout=compact&hide_border=true&bg_color=08060d&title_color=c4b5fd&text_color=e4e4e7" width="65%" alt="Most used programming languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=devalpona&hide_border=true&background=08060d&ring=a78bfa&fire=22d3ee&currStreakLabel=c4b5fd&sideLabels=e4e4e7&dates=9ca3af" width="95%" alt="Contribution streak" />
 
 </div>
 
-## 🌠 Contribution Activity
+---
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devalpona&bg_color=09090b&color=e4e4e7&line=c084fc&point=22d3ee&area=true&area_color=581c87&hide_border=true" width="100%" alt="Contribution activity graph" />
+## `03` — CONTRIBUTION FREQUENCY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devalpona&bg_color=08060d&color=e4e4e7&line=a78bfa&point=22d3ee&area=true&area_color=3b0764&hide_border=true&custom_title=ACTIVITY%20TIMELINE" width="100%" alt="GitHub activity timeline" />
 
 </div>
 
-## 🐍 Watch the Contributions Come Alive
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devalpona/devalpona/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake" />
+## `04` — THE NEXT COMMIT
 
-</div>
-
-## 💫 A Little Reminder
-
-<div align="center">
-
-*“Every expert was once a beginner who kept going.”*
-
-**Dream it. Build it. Improve it. Repeat.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=900&color=22D3EE&center=true&vCenter=true&width=500&height=40&lines=Keep+experimenting.;Keep+creating.;Keep+moving+forward." alt="Animated closing message" />
 
 <br/>
 
 <a href="https://github.com/devalpona?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-581c87?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-09090b?style=for-the-badge&logo=github&logoColor=c4b5fd" />
 </a>
 
-</div>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:581c87,100:09090b&height=110&section=footer" width="100%" alt="Decorative footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:4c1d95,100:06b6d4&height=130&section=footer" width="100%" />
+
+</div>
