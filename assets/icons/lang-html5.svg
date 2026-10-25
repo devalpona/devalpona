@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 92" width="72" height="92" role="img" aria-labelledby="ichtml5-t ichtml5-d">
+<title id="ichtml5-t">HTML5</title>
+<desc id="ichtml5-d">HTML5 icon tile (language)</desc>
+<defs><linearGradient id="ichtml5-edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F9A8D4" stop-opacity=".9"/><stop offset=".6" stop-color="#EC4899" stop-opacity=".25"/><stop offset="1" stop-color="#FDA4AF" stop-opacity=".6"/></linearGradient>
+<radialGradient id="ichtml5-fill" cx=".5" cy=".3" r=".9"><stop offset="0" stop-color="#2A0A1C"/><stop offset="1" stop-color="#0A0408"/></radialGradient>
+<style></style>
+</defs>
+<rect x="1" y="1" width="70" height="90" rx="14" fill="url(#ichtml5-fill)" stroke="url(#ichtml5-edge)" stroke-width="1.2"/>
+<g transform="translate(21 14) scale(1.25)"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z" fill="#FCE7F3"/></g>
+<text x="36" y="76" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="8" letter-spacing="1.5" fill="#FCE7F3" fill-opacity="0.8" text-anchor="middle">HTML</text>
+</svg>

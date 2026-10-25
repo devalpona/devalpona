@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 92" width="72" height="92" role="img" aria-labelledby="iccss3-t iccss3-d">
+<title id="iccss3-t">CSS3</title>
+<desc id="iccss3-d">CSS3 icon tile (language)</desc>
+<defs><linearGradient id="iccss3-edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F9A8D4" stop-opacity=".9"/><stop offset=".6" stop-color="#EC4899" stop-opacity=".25"/><stop offset="1" stop-color="#FDA4AF" stop-opacity=".6"/></linearGradient>
+<radialGradient id="iccss3-fill" cx=".5" cy=".3" r=".9"><stop offset="0" stop-color="#2A0A1C"/><stop offset="1" stop-color="#0A0408"/></radialGradient>
+<style></style>
+</defs>
+<rect x="1" y="1" width="70" height="90" rx="14" fill="url(#iccss3-fill)" stroke="url(#iccss3-edge)" stroke-width="1.2"/>
+<g transform="translate(21 14) scale(1.25)"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.565-2.438L1.5 0zm17.09 4.413L5.41 4.41l.213 2.622 10.125.002-.255 2.716h-6.64l.24 2.573h6.182l-.366 3.523-2.91.804-2.956-.81-.188-2.11h-2.61l.29 3.855L12 19.288l5.373-1.53L18.59 4.414z" fill="#FCE7F3"/></g>
+<text x="36" y="76" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="8" letter-spacing="1.5" fill="#FCE7F3" fill-opacity="0.8" text-anchor="middle">CSS</text>
+</svg>
